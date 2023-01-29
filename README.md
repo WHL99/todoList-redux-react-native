@@ -1,4 +1,7 @@
 # Todo List - mobile app
+
+<p align="left"><img width="300" alt="index" src="https://user-images.githubusercontent.com/104759740/215363144-4a011107-c6e8-47be-98cf-335c7919ae6e.PNG">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" alt="index" src="https://user-images.githubusercontent.com/104759740/215363186-d44ec38b-5e0d-4d0f-a759-31810d54fc0f.PNG"></p>
+
 ## Setup
 
 - Clone this repo
